@@ -41,7 +41,9 @@ This Excel project presents a comprehensive *Sales Analysis Dashboard* built usi
 - 🖱 *Macro* to reset all slicer filters with a single click
 
 ---
-
+<p align="center">
+  <img src="https://github.com/AniketGanguli/Superstore-Sales-Insights-Dashboard/blob/main/Dashboard.png" width="800"/>
+</p>
 ## 🚀 How to Use
 
 1. *Download or clone* the repository.
