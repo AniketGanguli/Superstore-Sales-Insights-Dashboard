@@ -42,7 +42,7 @@ This Excel project presents a comprehensive *Sales Analysis Dashboard* built usi
 
 ---
 <p align="center">
-  <img src="https://github.com/AniketGanguli/Superstore-Sales-Insights-Dashboard/blob/main/Dashboard.png" width="800"/>
+  <img src="https://github.com/AniketGanguli/Superstore-Sales-Insights-Dashboard/blob/main/Dashboard.png?raw=true" width="800"/>
 </p>
 ## 🚀 How to Use
 
